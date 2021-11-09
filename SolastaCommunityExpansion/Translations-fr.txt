@@ -1,0 +1,292 @@
+Race/&PointPoolSelect2FeatsDescription Choisissez 2 Traits additionnels pour votre personnage.
+Race/&PointPoolSelect2FeatsTitle 2 Traits Bonus
+Race/&PointPoolSelect3FeatsDescription Choisissez 3 Traits additionnels pour votre personnage.
+Race/&PointPoolSelect3FeatsTitle 3 Traits Bonus
+Race/&PointPoolSelect4FeatsDescription Choisissez 4 Traits additionnels pour votre personnage.
+Race/&PointPoolSelect4FeatsTitle 4 Traits Bonus
+Race/&PointPoolSelect5FeatsDescription Choisissez 5 Traits additionnels pour votre personnage.
+Race/&PointPoolSelect5FeatsTitle 5 Traits Bonus
+Race/&PointPoolSelect6FeatsDescription Choisissez 6 Traits additionnels pour votre personnage.
+Race/&PointPoolSelect6FeatsTitle 6 Traits Bonus
+Race/&PointPoolSelect7FeatsDescription Choisissez 7 Traits additionnels pour votre personnage.
+Race/&PointPoolSelect7FeatsTitle 7 Traits Bonus
+Race/&PointPoolSelect8FeatsDescription Choisissez 8 Traits additionnels pour votre personnage.
+Race/&PointPoolSelect8FeatsTitle 8 Traits Bonus
+Race/&PointPoolSelect9FeatsDescription Choisissez 9 Traits additionnels pour votre personnage.
+Race/&PointPoolSelect9FeatsTitle 9 Traits Bonus
+Race/&PointPoolSelect10FeatsDescription Choisissez 10 Traits additionnels pour votre personnage.
+Race/&PointPoolSelect10FeatsTitle 10 Traits Bonus
+Race/&PointPoolSelect11FeatsDescription Choisissez 11 Traits additionnels pour votre personnage.
+Race/&PointPoolSelect11FeatsTitle 11 Traits Bonus
+Equipment/&Enchanted_LightCrossbow_Accuracy_Title Arbalète légère d'acuité
+Equipment/&Enchanted_LightCrossbow_Sharpshooting_Title Arbalète légère de précision
+Equipment/&Enchanted_LightCrossbow_Lightbringer_Title Arbalète légère Eclatante
+Equipment/&Enchanted_LightCrossbow_Stormbow_Title Light Arbalète de Tempête
+Equipment/&Enchanted_LightCrossbow_Medusa_Title Arbalète légère de la méduse
+Equipment/&Enchanted_HeavyCrossbow_Accuracy_Title Arbalète lourde d'acuité
+Equipment/&Enchanted_HeavyCrossbow_Sharpshooting_Title Arbalète lourde de précision
+Equipment/&Enchanted_HeavyCrossbow_Lightbringer_Title Arbalète lourde Eclatante
+Equipment/&Enchanted_HeavyCrossbow_Stormbow_Title Arbalète lourde de Tempête
+Equipment/&Enchanted_HeavyCrossbow_Medusa_Title Arbalète lourde de la Méduse
+Equipment/&Enchanted_LightCrossbow_Accuracy_Description Cette arme enchantée a été forgée en utilisant les connaissances anciennes des maîtres archers de Colthannin. Son design original portait le sceau de Defineth Sharpsight, un célèbre enchanteur elfe sylvain.
+Equipment/&Enchanted_LightCrossbow_Sharpshooting_Description Cette arme enchantée a été forgée en utilisant les connaissances anciennes des maîtres archers de Colthannin. Le Coedymwarth préférait traiter avec les arcanistes de Manacalon physiquement plutôt que magiquement. Ses meilleurs archers ont reçu des arbalètes, la création des Defineth Sharpsight.
+Equipment/&Enchanted_LightCrossbow_Lightbringer_Description Cette arme enchantée a été forgée en utilisant les connaissances anciennes des maîtres archers de Colthannin. Elle a été conçu par Elgador Bélesprit, le Magesmith de l'Arcaneum, pour soutenir le combat contre les créatures mortes-vivantes.
+Equipment/&Enchanted_LightCrossbow_Stormbow_Description Cette arme enchantée a été forgée en utilisant les connaissances anciennes des maîtres archers de Colthannin. Elle a été conçu par Galar Stromforge, le premier forgeron nain à exploiter le pouvoir de la tempête dans une arme - avec un effet dévastateur !
+Equipment/&Enchanted_LightCrossbow_Medusa_Description Cette arme enchantée a été forgée en utilisant les connaissances anciennes des maîtres archers de Colthannin. La magie a fusionné le corail méduse et le bois dur pour créer un arc mortel, favorisé par les embarquements des halfelins de l'île.
+Equipment/&Enchanted_HeavyCrossbow_Accuracy_Description Cette arme enchantée a été forgée en utilisant les connaissances anciennes des maîtres archers de Colthannin. Son design original portait le sceau de Defineth Sharpsight, un célèbre enchanteur elfe sylvain.
+Equipment/&Enchanted_HeavyCrossbow_Sharpshooting_Description Cette arme enchantée a été forgée en utilisant les connaissances anciennes des maîtres archers de Colthannin. Le Coedymwarth préférait traiter avec les arcanistes de Manacalon physiquement plutôt que magiquement. Ses meilleurs archers ont reçu des arbalètes, la création des Defineth Sharpsight.
+Equipment/&Enchanted_HeavyCrossbow_Lightbringer_Description Cette arme enchantée a été forgée en utilisant les connaissances anciennes des maîtres archers de Colthannin. Elle a été conçu par Elgador Keenspirit, le Magesmith de l'Arcaneum, pour soutenir le combat contre les créatures mortes-vivantes.
+Equipment/&Enchanted_HeavyCrossbow_Stormbow_Description Cette arme enchantée a été forgée en utilisant les connaissances anciennes des maîtres archers de Colthannin. Elle a été conçu par Galar Stromforge, le premier forgeron nain à exploiter le pouvoir de la tempête dans une arme à l'effet dévastateur !
+Equipment/&Enchanted_HeavyCrossbow_Medusa_Description Cette arme enchantée a été forgée en utilisant les connaissances anciennes des maîtres archers de Colthannin. La magie a fusionné le corail méduse et le bois dur pour créer un arc mortel, favorisé par les embarquements des halfelins de l'île.
+Equipment/&Enchanted_Handaxe_Acuteness_Title Hache d'acuité
+Equipment/&Enchanted_Handaxe_Acuteness_Description Cette arme enchantée a été créée en utilisant les connaissances anciennes des maîtres forgerons de Manacalon. Sa conception était l'une des premières œuvres d'Elgador Keenspirit, Magesmith de l'Arcaneum.
+Equipment/&Enchanted_Handaxe_Sharpness_Title Hache d'acuité
+Equipment/&Enchanted_Handaxe_Sharpness_Description Cette arme enchantée a été créée en utilisant les connaissances anciennes des maîtres forgerons de Manacalon. Sa conception était l'une des premières œuvres d'Elgador Bélesprit, Forge-Mage de l'Arcaneum.
+Equipment/&Enchanted_Handaxe_Souldrinker_Title Hache Buveuse d'âmes
+Equipment/&Enchanted_Handaxe_Souldrinker_Description Cette arme enchantée a été créée en utilisant les connaissances anciennes des maîtres forgerons de Manacalon. Un favori des agents Silent Whisper, cette arme a été conçue par Cylordir Redblade.
+Equipment/&Enchanted_Handaxe_Frostburn_Title Hache Givrardent
+Equipment/&Enchanted_Handaxe_Frostburn_Description Cette arme enchantée a été créée en utilisant les connaissances anciennes des maîtres forgerons de Manacalon. Elle a été conçu par Keliandir Moltenheart, qui a forgé cette arme pour combattre les salamandres après qu'une exploration des plans élémentaires ait mal tourné.
+Equipment/&Enchanted_Javelin_Acuteness_Title Javelot d'acuité
+Equipment/&Enchanted_Javelin_Acuteness_Description Cette arme enchantée a été créée en utilisant les connaissances anciennes des maîtres forgerons de Manacalon. Sa conception était l'une des premières œuvres d'Elgador Bélesprit, Forge-Mage de l'Arcaneum.
+Equipment/&Enchanted_Javelin_Sharpness_Title Javelot Tranchant
+Equipment/&Enchanted_Javelin_Sharpness_Description Cette arme enchantée a été créée en utilisant les connaissances anciennes des maîtres forgerons de Manacalon. Sa conception était l'une des premières œuvres d'Elgador Keenspirit, Magesmith de l'Arcaneum.
+Equipment/&Enchanted_Javelin_Souldrinker_Title Javelot Buveur d'âmes
+Equipment/&Enchanted_Javelin_Souldrinker_Description Cette arme enchantée a été créée en utilisant les connaissances anciennes des maîtres forgerons de Manacalon. Un favori des agents Silent Whisper, cette arme a été conçue par Cylordir Redblade.
+Equipment/&Enchanted_Javelin_Frostburn_Title Javelot Givrardent
+Equipment/&Enchanted_Javelin_Frostburn_Description Cette arme enchantée a été créée en utilisant les connaissances anciennes des maîtres forgerons de Manacalon. Elle a été conçu par Keliandir Moltenheart, qui a forgé cette arme pour combattre les salamandres après qu'une exploration des plans élémentaires ait mal tourné.
+Equipment/&Enchanted_Dart_Acuteness_Title Dard d'acuité
+Equipment/&Enchanted_Dart_Acuteness_Description Cette arme enchantée a été créée en utilisant les connaissances anciennes des maîtres forgerons de Manacalon. Sa conception était l'une des premières œuvres d'Elgador Keenspirit, Magesmith de l'Arcaneum.
+Equipment/&Enchanted_Dart_Sharpness_Title Dard Tranchant
+Equipment/&Enchanted_Dart_Sharpness_Description Cette arme enchantée a été créée en utilisant les connaissances anciennes des maîtres forgerons de Manacalon. Sa conception était l'une des premières œuvres d'Elgador Keenspirit, Magesmith de l'Arcaneum.
+Equipment/&Enchanted_Dart_Souldrinker_Title Fléchette Buveuse d'âmes
+Equipment/&Enchanted_Dart_Souldrinker_Description Cette arme enchantée a été créée en utilisant les connaissances anciennes des maîtres forgerons de Manacalon. Un favori des agents Silent Whisper, cette arme a été conçue par Cylordir Redblade.
+Equipment/&Enchanted_Dart_Frostburn_Title Fléchette Givrardent
+Equipment/&Enchanted_Dart_Frostburn_Description Cette arme enchantée a été créée en utilisant les connaissances anciennes des maîtres forgerons de Manacalon. Elle a été conçu par Keliandir Moltenheart, qui a forgé cette arme pour combattre les salamandres après qu'une exploration des plans élémentaires ait mal tourné.
+Equipment/&Enchanted_Club_Acuteness_Title Club d'Acuité
+Equipment/&Enchanted_Club_Acuteness_Description Cette arme enchantée a été créée en utilisant l'ancien savoir des maîtres forgerons de Manacalon. Sa conception est l'un des premiers travaux d'Elgador Keenspirit, Magesmith de l'Arcaneum.
+Equipment/&Enchanted_Club_Bearclaw_Title Massue Griffe d'Ours
+Equipment/&Enchanted_Club_Bearclaw_Description Cette arme enchantée a été forgée en utilisant le savoir ancestral des maîtres forgerons de Manacalon. Les pointes acérées de la griffe de l'ours déchirent l'armure pour infliger des dégâts supplémentaires - comme l'avait prévu Ildurial Stronghand, qui a conçu la première arme de ce type.
+Equipment/&Enchanted_Club_Power_Title Massue de Puissance
+Equipment/&Enchanted_Club_Power_Description Cette arme enchantée a été forgée en utilisant l'ancien savoir des maîtres forgerons de Manacalon. Certaines créatures ne respectent que les forces physiques. Les arcanistes de Manacalon ont créé cette massue pour donner aux champions des Légions de Fer la force que leurs corps d'elfes ne leur procuraient pas.
+Equipment/&Enchanted_Club_Lightbringer_Title Massue Eclatante
+Equipment/&Enchanted_Club_Lightbringer_Description Cette arme enchantée a été forgée en utilisant l'ancien savoir des maîtres forgerons de Colthannin. Elle a été conçue par Elgador Bélesprit, Forge-Mage de l'Arcaneum pour soutenir le combat contre les créatures mortes-vivantes.
+Equipment/&Enchanted_Club_Punisher_Title Massue du Punisseur
+Equipment/&Enchanted_Club_Punisher_Description Cette arme enchantée a été créée en utilisant l'ancien savoir des maîtres forgerons de Manacalon. La combinaison du meilleur métal et de la pierre d'asservissement a donné à cette hache une incroyable puissance de perforation.
+Equipment/&Enchanted_Maul_Acuteness_Title Masse d'Acuité
+Equipment/&Enchanted_Maul_Acuteness_Description Cette arme enchantée a été créée en utilisant l'ancien savoir des maîtres forgerons de Manacalon. Sa conception est l'un des premiers travaux d'Elgador Bélesprit, Forge-Mage de l'Arcaneum.
+Equipment/&Enchanted_Maul_Bearclaw_Title Masse Griffe d'Ours
+Equipment/&Enchanted_Maul_Bearclaw_Description Cette arme enchantée a été forgée en utilisant le savoir ancestral des maîtres forgerons de Manacalon. Les pointes acérées de la griffe de l'ours déchirent l'armure pour infliger des dégâts supplémentaires - comme l'avait prévu Ildurial Stronghand, qui a conçu la première arme de ce type.
+Equipment/&Enchanted_Maul_Power_Title Masse de Puissance
+Equipment/&Enchanted_Maul_Power_Description Cette arme enchantée a été forgée en utilisant le savoir ancestral des maîtres forgerons de Manacalon. Certaines créatures ne respectent que la force physique. Les arcanistes de Manacalon ont créé ce Maul pour donner aux champions des Légions de Fer la force que leurs corps d'elfes ne leur procuraient pas.
+Equipment/&Enchanted_Maul_Lightbringer_Title Masse Eclatante
+Equipment/&Enchanted_Maul_Lightbringer_Description Cette arme enchantée a été forgée en utilisant l'ancien savoir des maîtres forgerons de Colthannin. Elle a été conçue par Elgador Bélesprit, Forge-Mage de l'Arcaneum pour soutenir le combat contre les créatures mortes-vivantes.
+Equipment/&Enchanted_Maul_Punisher_Title Masse du Punisseur
+Equipment/&Enchanted_Maul_Punisher_Description Cette arme enchantée a été créée en utilisant l'ancien savoir des maîtres forgerons de Manacalon. La combinaison du meilleur métal et de la pierre d'asservissement a donné à cette hache une incroyable puissance de perforation.
+Equipment/&Enchanted_Warhammer_Acuteness_Title Marteau de guerre d'Acuité
+Equipment/&Enchanted_Warhammer_Acuteness_Description Cette arme enchantée a été créée en utilisant l'ancien savoir des maîtres forgerons de Manacalon. Sa conception est l'un des premiers travaux d'Elgador Bélesprit, Forge-Mage de l'Arcaneum.
+Equipment/&Enchanted_Warhammer_Bearclaw_Title Marteau de guerre Griffe d'Ours
+Equipment/&Enchanted_Warhammer_Bearclaw_Description Cette arme enchantée a été forgée en utilisant le savoir ancestral des maîtres forgerons de Manacalon. Les pointes acérées de la griffe de l'ours déchirent l'armure pour infliger des dégâts supplémentaires - comme l'avait prévu Ildurial Stronghand, qui a conçu la première arme de ce type.
+Equipment/&Enchanted_Warhammer_Power_Title Marteau de guerre de Puissance
+Equipment/&Enchanted_Warhammer_Power_Description Cette arme enchantée a été forgée en utilisant le savoir ancestral des maîtres forgerons de Manacalon. Certaines créatures ne respectent que la force physique. Les arcanistes de Manacalon ont créé ce Maul pour donner aux champions des Légions de Fer la force que leurs corps d'elfes ne leur procuraient pas.
+Equipment/&Enchanted_Warhammer_Lightbringer_Title Marteau de Guerre Eclatant
+Equipment/&Enchanted_Warhammer_Lightbringer_Description Cette arme enchantée a été forgée en utilisant l'ancien savoir des maîtres forgerons de Colthannin. Elle a été conçue par Elgador Bélesprit, Forge-Mage de l'Arcaneum pour soutenir le combat contre les créatures mortes-vivantes.
+Equipment/&Enchanted_Warhammer_Punisher_Title Marteau de guerre du Punisseur
+Equipment/&Enchanted_Warhammer_Punisher_Description Cette arme enchantée a été créée en utilisant l'ancien savoir des maîtres forgerons de Manacalon. La combinaison du meilleur métal et de la pierre d'asservissement a donné à cette hache une incroyable puissance de perforation.
+Equipment/&Enchanted_Quarterstaff_Acuteness_Title Bâton d'Acuité
+Equipment/&Enchanted_Quarterstaff_Acuteness_Description Cette arme enchantée a été créée en utilisant l'ancien savoir des maîtres forgerons de Manacalon. Sa conception est l'un des premiers travaux d'Elgador Bélesprit, Forge-Mage de l'Arcaneum.
+Equipment/&Enchanted_Quarterstaff_Frostburn_Title Bâton Givrardent
+Equipment/&Enchanted_Quarterstaff_Frostburn_Description Cette arme enchantée a été créée en utilisant les connaissances anciennes des maîtres forgerons de Manacalon. Elle a été conçue par Keliandir Coeur-Fondu, qui a forgé cette arme pour combattre les salamandres après qu'une exploration des plans élémentaires ait mal tourné.
+Equipment/&Enchanted_Quarterstaff_Souldrinker_Title Bâton Buveur d'ames
+Equipment/&Enchanted_Quarterstaff_Souldrinker_Description Cette arme enchantée a été créée en utilisant les connaissances anciennes des maîtres forgerons de Manacalon. Une des favorites des agents du Silent Whisper, cette arme a été conçue par Cylordir Redblade.
+Equipment/&Enchanted_Quarterstaff_Lightbringer_Title Bâton Eclatant
+Equipment/&Enchanted_Quarterstaff_Lightbringer_Description Cette arme enchantée a été forgée en utilisant l'ancien savoir des maîtres forgerons de Colthannin. Elle a été conçue par Elgador Bélesprit, Forge-Mage de l'Arcaneum pour soutenir le combat contre les créatures mortes-vivantes.
+Equipment/&Enchanted_Quarterstaff_Stormblade_Title Bâton de Tempête
+Equipment/&Enchanted_Quarterstaff_Stormblade_Description Cette arme enchantée a été forgée en utilisant l'ancien savoir des maîtres forgerons de Manacalon. Elle a été conçue par Galar Stromforge, le premier forgeron nain à exploiter le pouvoir de la tempête dans une arme - pour un effet dévastateur !
+Equipment/&Enchanted_Quarterstaff_Dragonblade_Title Bâton du Dragon
+Equipment/&Enchanted_Quarterstaff_Dragonblade_Description Cette arme enchantée a été créée en utilisant l'ancien savoir des maîtres forgerons de Manacalon. Elle a été conçue par Lestoreth Steelarm pour combattre dans le Nord glacé de l'Empire.
+Equipment/&Enchanted_Quarterstaff_Warden_Title Bâton Protecteur
+Equipment/&Enchanted_Quarterstaff_Warden_Description Cette arme enchantée a été forgée en utilisant l'ancien savoir des maîtres forgerons de Manacalon. Elle a été conçue par Ildurial Strongarm, un célèbre forgeron de Manacalon. La première arme de ce type, la Manacalon Warden, a été offerte au commandant des Euraidd.
+Equipment/&Enchanted_Quarterstaff_Whiteburn_Title Bâton de Brûlure Blanche
+Equipment/&Enchanted_Quarterstaff_Whiteburn_Description Cette arme enchantée a été créée en utilisant les connaissances anciennes des maîtres forgerons de Manacalon. Whiteburn a été créée par le premier Danantar pour combattre une invasion de trolls venant des marais au sud de son domaine entre le Sioltafin et le Scarafin.
+Equipment/&Enchanted_Scimitar_Frostburn_Title Cimeterre Givrardent
+Equipment/&Enchanted_Scimitar_Frostburn_Description Cette arme enchantée a été créée en utilisant les connaissances anciennes des maîtres forgerons de Manacalon. Elle a été conçue par Keliandir Coeur-Fondu, qui a forgé cette arme pour combattre les salamandres après qu'une exploration des plans élémentaires ait mal tourné.
+Equipment/&Enchanted_Scimitar_Souldrinker_Title Cimeterre Buveur d'ames
+Equipment/&Enchanted_Scimitar_Souldrinker_Description Cette arme enchantée a été créée en utilisant les connaissances anciennes des maîtres forgerons de Manacalon. Une des favorites des agents du Silent Whisper, cette arme a été conçue par Cylordir Redblade.
+Equipment/&Enchanted_Scimitar_Lightbringer_Title Cimeterre Eclatant
+Equipment/&Enchanted_Scimitar_Lightbringer_Description Cette arme enchantée a été forgée en utilisant l'ancien savoir des maîtres forgerons de Colthannin. Elle a été conçue par Elgador Bélesprit, Forge-Mage de l'Arcaneum pour soutenir le combat contre les créatures mortes-vivantes.
+Equipment/&Enchanted_Scimitar_Stormblade_Title Cimeterre de Tempête
+Equipment/&Enchanted_Scimitar_Stormblade_Description Cette arme enchantée a été forgée en utilisant l'ancien savoir des maîtres forgerons de Manacalon. Elle a été conçue par Galar Stromforge, le premier forgeron nain à exploiter le pouvoir de la tempête dans une arme - pour un effet dévastateur !
+Equipment/&Enchanted_Scimitar_Dragonblade_Title Cimeterre du Dragon
+Equipment/&Enchanted_Scimitar_Dragonblade_Description Cette arme enchantée a été créée en utilisant l'ancien savoir des maîtres forgerons de Manacalon. Elle a été conçue par Lestoreth Steelarm pour combattre dans le Nord glacé de l'Empire.
+Equipment/&Enchanted_Scimitar_Warden_Title Cimeterre Protecteur
+Equipment/&Enchanted_Scimitar_Warden_Description Cette arme enchantée a été forgée en utilisant l'ancien savoir des maîtres forgerons de Manacalon. Elle a été conçue par Ildurial Strongarm, un célèbre forgeron de Manacalon. La première lame de ce type, la Manacalon Warden, a été offerte au commandant des Euraidd.
+Equipment/&Enchanted_Scimitar_Whiteburn_Title Cimeterre de Brûlure Blanche
+Equipment/&Enchanted_Scimitar_Whiteburn_Description Cette arme enchantée a été créée en utilisant les connaissances anciennes des maîtres forgerons de Manacalon. Whiteburn a été créée par le premier Danantar pour combattre une invasion de trolls venant des marais au sud de son domaine entre le Sioltafin et le Scarafin.
+Equipment/&Enchanted_Spear_Acuteness_Title Lance d'Acuité
+Equipment/&Enchanted_Spear_Acuteness_Description Cette arme enchantée a été créée en utilisant l'ancien savoir des maîtres forgerons de Manacalon. Sa conception est l'un des premiers travaux d'Elgador Bélesprit, Forge-Mage de l'Arcaneum.
+Equipment/&Enchanted_Spear_Sharpness_Title Lance Tranchante
+Equipment/&Enchanted_Spear_Sharpness_Description Cette arme enchantée a été créée en utilisant les connaissances anciennes des maîtres forgerons de Manacalon. Sa conception est l'un des premiers travaux d'Elgador Bélesprit, Forge-Mage del'Arcaneum.
+Equipment/&Enchanted_Spear_Whiteburn_Title Lance de Brûlure Blanche
+Equipment/&Enchanted_Spear_Whiteburn_Description Cette arme enchantée a été créée en utilisant les connaissances anciennes des maîtres forgerons de Manacalon. Whiteburn a été créée par le premier Danantar pour combattre une invasion de trolls venant des marais au sud de son domaine entre le Sioltafin et le Scarafin.
+Equipment/&Enchanted_Spear_Lightbringer_Description Cette arme enchantée a été forgée en utilisant l'ancien savoir des maîtres forgerons de Colthannin. Elle a été conçue par Elgador Bélesprit, Forge-Mage del'Arcaneum pour soutenir le combat contre les créatures mortes-vivantes.
+Equipment/&Enchanted_Spear_Stormblade_Title Lance de Tempête
+Equipment/&Enchanted_Spear_BlackViper_Title Lance de la Vipère Noire
+Equipment/&Enchanted_Spear_BlackViper_Description Cette arme enchantée a été forgée grâce au savoir ancestral des maîtres forgerons de Manacalon, en utilisant une lance et le venin d'une araignée légendaire des profondeurs de Solasta. Le concepteur de la lance était Grigg Blackheart, un forgeron halfling notoire travaillant dans les forges de l'Aer Elai.
+Equipment/&Enchanted_Spear_Doomblade_Title Lance à Pointe de Fer
+Equipment/&Enchanted_Spear_Sharpness_Description Cette arme enchantée a été forgée en utilisant l'ancien savoir des maîtres forgerons de Manacalon. Kenaloth Darkmind a conçu les Doomblades comme un outil de punition pour ceux qui résistaient à la magie de l'Empire.
+Equipment/&Enchanted_Shield_Sturdiness_Title Bouclier en bois de Solidité
+Equipment/&Enchanted_Shield_Sturdiness_Description Ce bouclier enchanté a été créée en utilisant l'ancien savoir des maîtres armuriers de Manacalon. Ildurial Stronghand a forgé la première de ces armures pour la garde personnelle de l'Empereur.
+Equipment/&Enchanted_Shield_Robustness_Title Bouclier en bois de Robustesse
+Equipment/&Enchanted_Shield_Robustness_Description Ce bouclier enchanté a été créée en utilisant l'ancien savoir des maîtres armuriers de Manacalon. Ildurial Stronghand a forgé la première de ces armures pour la garde personnelle de l'Empereur.
+Equipment/&Enchanted_Shield_Survival_Title Bouclier en bois de Survie
+Equipment/&Enchanted_Shield_Survival_Description Ce bouclier enchanté a été créée en utilisant l'ancien savoir des maîtres armuriers de Manacalon. Ildurial Stronghand a forgé la première de ces armures pour la garde personnelle de l'Empereur.
+Equipment/&Enchanted_Shield_FlameDancing_Title Bouclier en bois Flamboyant
+Equipment/&Enchanted_Shield_FlameDancing_Description Ce bouclier enchanté a été créée en utilisant l'ancien savoir des maîtres armuriers de Manacalon. Ildurial Stronghand a forgé la première de ces armures pour la garde personnelle de l'Empereur.
+Equipment/&Enchanted_Shield_FrostWalking_Title Bouclier en bois de la Marche Gelée
+Cette armure enchantée a été créée en utilisant l'ancien savoir des maîtres armuriers de Manacalon. Ildurial Stronghand a forgé la première de ces armures pour la garde personnelle de l'Empereur.
+Equipment/&Enchanted_Shield_Deflection_Title Bouclier en bois de Déviation
+Equipment/&Enchanted_Shield_Deflection_Description Cette armure enchantée a été créée en utilisant l'ancien savoir des maîtres armuriers de Manacalon. Ildurial Stronghand a forgé la première de ces armures pour la garde personnelle de l'Empereur.
+Equipment/&Enchanted_HideArmor_Sturdiness_Title Armure de cuir de Solidité
+Equipment/&Enchanted_HideArmor_Sturdiness_Description Cette armure enchantée a été créée en utilisant l'ancien savoir des maîtres armuriers de Manacalon. Ildurial Stronghand a forgé la première de ces armures pour la garde personnelle de l'Empereur.
+Equipment/&Enchanted_HideArmor_Robustness_Title Armure de cuir de Robustesse
+Equipment/&Enchanted_HideArmor_Robustness_Description Cette armure enchantée a été créée en utilisant l'ancien savoir des maîtres armuriers de Manacalon. Ildurial Stronghand a forgé la première de ces armures pour la garde personnelle de l'Empereur.
+Equipment/&Enchanted_HideArmor_Survival_Title Armure de cuir de Survie
+Equipment/&Enchanted_HideArmor_Survival_Description Cette armure enchantée a été créée en utilisant l'ancien savoir des maîtres armuriers de Manacalon. Ildurial Stronghand a forgé la première de ces armures pour la garde personnelle de l'Empereur.
+Equipment/&Enchanted_HideArmor_FlameDancing_Title Armure de cuir Flamboyante
+Equipment/&Enchanted_HideArmor_FlameDancing_Description Cette armure enchantée a été créée en utilisant l'ancien savoir des maîtres armuriers de Manacalon. Ildurial Stronghand a forgé la première de ces armures pour la garde personnelle de l'Empereur.
+Equipment/&Enchanted_HideArmor_FrostWalking_Title Armure de cuir de Marche Gelée
+Equipment/&Enchanted_HideArmor_FrostWalking_Description Cette armure enchantée a été créée en utilisant l'ancien savoir des maîtres armuriers de Manacalon. Ildurial Stronghand a forgé la première de ces armures pour la garde personnelle de l'Empereur.
+Equipment/&Enchanted_HideArmor_Deflection_Title Armure de cuir de Déviation
+Equipment/&Enchanted_HideArmor_Deflection_Description Cette armure enchantée a été créée en utilisant l'ancien savoir des maîtres armuriers de Manacalon. Ildurial Stronghand a forgé la première de ces armures pour la garde personnelle de l'Empereur.
+Equipment/&Enchanted_StuddedLeather_Sturdiness_Title Cuir clouté de Solidité
+Equipment/&Enchanted_StuddedLeather_Sturdiness_Description Cette armure enchantée a été créée en utilisant l'ancien savoir des maîtres armuriers de Manacalon. Ildurial Stronghand a forgé la première de ces armures pour la garde personnelle de l'Empereur.
+Equipment/&Enchanted_StuddedLeather_Robustness_Title Cuir clouté de Robustesse
+Equipment/&Enchanted_StuddedLeather_Robustness_Description Cette armure enchantée a été créée en utilisant l'ancien savoir des maîtres armuriers de Manacalon. Ildurial Stronghand a forgé la première de ces armures pour la garde personnelle de l'Empereur.
+Equipment/&Enchanted_StuddedLeather_Survival_Title Cuir clouté de Survie
+Equipment/&Enchanted_StuddedLeather_Survival_Description Cette armure enchantée a été créée en utilisant l'ancien savoir des maîtres armuriers de Manacalon. Ildurial Stronghand a forgé la première de ces armures pour la garde personnelle de l'Empereur.
+Equipment/&Enchanted_StuddedLeather_FlameDancing_Title Cuir clouté Flamboyant
+Equipment/&Enchanted_StuddedLeather_FlameDancing_Description Cette armure enchantée a été créée en utilisant l'ancien savoir des maîtres armuriers de Manacalon. Ildurial Stronghand a forgé la première de ces armures pour la garde personnelle de l'Empereur.
+Equipment/&Enchanted_StuddedLeather_FrostWalking_Title Cuir clouté de Marche Gelée
+Equipment/&Enchanted_StuddedLeather_FrostWalking_Description Cette armure enchantée a été créée en utilisant l'ancien savoir des maîtres armuriers de Manacalon. Ildurial Stronghand a forgé la première de ces armures pour la garde personnelle de l'Empereur.
+Equipment/&Enchanted_StuddedLeather_Deflection_Title Cuir clouté de Déviation
+Equipment/&Enchanted_StuddedLeather_Deflection_Description Cette armure enchantée a été créée en utilisant l'ancien savoir des maîtres armuriers de Manacalon. Ildurial Stronghand a forgé la première de ces armures pour la garde personnelle de l'Empereur.
+Equipment/&Enchanted_Shield_Wooden_Sturdiness_Title Bouclier en bois de Solidité
+Equipment/&Enchanted_Shield_Wooden_Sturdiness_Description Ce bouclier enchanté a été créée en utilisant l'ancien savoir des maîtres armuriers de Manacalon. Ildurial Stronghand a forgé la première de ces armures pour la garde personnelle de l'Empereur.
+Equipment/&Enchanted_Shield_Wooden_Robustness_Title Bouclier en bois de Robustesse
+Equipment/&Enchanted_Shield_Wooden_Robustness_Description Ce bouclier enchanté a été créée en utilisant l'ancien savoir des maîtres armuriers de Manacalon. Ildurial Stronghand a forgé la première de ces armures pour la garde personnelle de l'Empereur.
+Equipment/&Enchanted_Shield_Wooden_Survival_Title Bouclier en bois de Survie
+Equipment/&Enchanted_Shield_Wooden_Survival_Description Ce bouclier enchanté a été créée en utilisant l'ancien savoir des maîtres armuriers de Manacalon. Ildurial Stronghand a forgé la première de ces armures pour la garde personnelle de l'Empereur.
+Equipment/&Enchanted_Shield_Wooden_FlameDancing_Title Bouclier en bois Flamboyant
+Equipment/&Enchanted_Shield_Wooden_FlameDancing_Description Ce bouclier enchanté a été créée en utilisant l'ancien savoir des maîtres armuriers de Manacalon. Ildurial Stronghand a forgé la première de ces armures pour la garde personnelle de l'Empereur.
+Equipment/&Enchanted_Shield_Wooden_FrostWalking_Title Bouclier en bois de Marche Gelée
+Equipment/&Enchanted_Shield_Wooden_FrostWalking_Description Ce bouclier enchanté a été créée en utilisant l'ancien savoir des maîtres armuriers de Manacalon. Ildurial Stronghand a forgé la première de ces armures pour la garde personnelle de l'Empereur.
+Equipment/&Enchanted_Shield_Wooden_Deflection_Title Bouclier en bois de Déviation
+Equipment/&Enchanted_Shield_Wooden_Deflection_Description Ce bouclier enchanté a été créée en utilisant l'ancien savoir des maîtres armuriers de Manacalon. Ildurial Stronghand a forgé la première de ces armures pour la garde personnelle de l'Empereur.
+Feat/&ProfLightArmorDescription Gagne la compétence Armure légère
+Feat/&ProfLightArmorTitle Armure Légère
+Feat/&FeatDexIncrementDescription +1 Dexterité
+Feat/&FeatDexIncrementTitle Augmentation de caractéristique
+Feat/&LightArmorDescription Gagner la maîtrise de l'armure légère et +1 en dextérité.
+Feat/&LightArmorTitle Armure légère
+Feat/&ProfMediumArmorDescription Gagner la maîtrise des armures et boucliers moyens.
+Feat/&ProfMediumArmorTitle Armures Moyennes
+Feat/&MediumDexArmorDescription Gagne la maîtrise des armures et boucliers moyens et +1 en dextérité.
+Feat/&MediumDexArmorTitle Armure Moyenne
+Feat/&FeatStrengthIncrementDescription +1 Force
+Feat/&FeatStrengthIncrementTitle Augmentation de caractéristique
+Feat/&MediumStrengthArmorDescription Gagner la maîtrise des armures et boucliers moyens et +1 en Force
+Feat/&MediumStrengthArmorTitle Armure Moyenne
+Feat/&HeavyArmorMasterDescription Résistance aux dégâts contondants, tranchants et perforants.
+Feat/&HeavyArmorMasterTitle Maîtrise de défense lourde
+Feat/&FeatSavageAttackerDescription Relancez les dés de dégâts lorsqu'ils obtiennent un 1.
+Feat/&FeatSavageAttackerTitle Attaquant sauvage
+Feat/&FeatSavageAttackerReroll Relance des dégâts dus à l'attaquant sauvage.
+Feat/&FeatToughDescription Votre maximum de points de vie augmente d'un montant égal à deux fois votre niveau lorsque vous gagnez ce trait. Chaque fois que vous gagnez un niveau par la suite, votre maximum de points de vie augmente de 2 points de vie supplémentaires.
+Feat/&FeatToughTitle Résistant
+Feat/&FeatWarCasterDescription Vous gagnez un avantage sur les tests de maintien de la concentration. Vous gagnez la capacité d'exécuter la composante somatique des sorts même avec les mains pleines. Vous gagnez +2 aux jets d'attaque des sorts.
+Feat/&FeatWarCasterTitle Magicien de Guerre
+Feat/&FightingStyleTwoWeaponDescription Lorsque vous vous engagez dans un combat à deux armes, vous pouvez ajouter votre modificateur de capacité aux dégâts de la deuxième attaque.
+Feat/&FightingStyleTwoWeaponTitle Style de combat : Deux armes
+Feat/&FightingStyleProtectionDescription Lorsqu'une créature que vous pouvez voir attaque une cible autre que vous qui se trouve à moins de 1,5 m de vous, vous pouvez utiliser votre réaction pour imposer un désavantage au jet d'attaque. Vous devez brandir un bouclier.
+Feat/&FightingStyleProtectionTitle Style de combat : Protection
+Feat/&FightingStyleGreatWeaponDescription Lorsque vous obtenez un 1 ou un 2 sur un dé de dégâts pour une attaque que vous effectuez avec une arme de mêlée que vous maniez à deux mains, vous pouvez relancer le dé. Vous devez utiliser le nouveau jet, même si c'est un 1 ou un 2. L'arme doit avoir la propriété à deux mains ou polyvalente pour que vous puissiez bénéficier de cet avantage.
+Feat/&FightingStyleGreatWeaponTitle Style de combat : Grande arme
+Feat/&FightingStyleDuelingDescription Lorsque vous brandissez une arme de mêlée dans une main et aucune autre arme, vous gagnez un bonus de +2 aux jets de dégâts avec cette arme.
+Feat/&FightingStyleDuelingTitle Style de combat : Dueliste
+Feat/&FightingStyleDefenseDescription Lorsque vous portez une armure, vous bénéficiez d'un bonus de +1 à la CA.
+Feat/&FightingStyleDefenseTitle Style de combat : Défense
+Feat/&FightingStyleArcheryDescription Vous gagnez un bonus de +2 aux jets d'attaque avec les armes à distance.
+Feat/&FightingStyleArcheryTitle Style de combat : Archerie
+Feat/&FightingStyleGeneralFeatDescription Vous pouvez sélectionner un style de combat.
+Feat/&FightingStyleGeneralFeatitle Style de combat
+Feat/&InspiringLeaderDescription Passez 10 minutes à inspirer jusqu'à 6 créatures alliées (dont vous pouvez faire partie) dans un rayon de 30 pieds autour de vous. Chaque créature gagne des points de vie temporaires égaux à votre niveau + votre modificateur de Charisme. Utilisable une fois par repos court.
+Feat/&InspiringLeaderTitle  Leader inspirant
+Feat/&HealerDescription Vous gagnez une compétence ou une expertise aux tests de médecine. Vous gagnez la capacité de ranimer une créature morte dans les 12 dernières secondes une fois par repos long. Vous pouvez utiliser une action pour restaurer 1d6 + 4 + niveau de personnage points de vie un nombre de fois par repos court égal à votre modificateur de Sagesse.
+Feat/&HealerTitle Soigneur
+Feat/&HealerUseMedicineDescription Vous pouvez utiliser une action pour restaurer 1d6 + 4 + niveau de personnage points de vie un nombre de fois par repos court égal à votre modificateur de Sagesse.
+Feat/&HealerUseMedicineTitle Médecine
+Feat/&HealerResuscitateDescription Utilisez une action pour ranimer une créature qui est morte dans les 15 dernières secondes.
+Feat/&HealerResuscitateTitle Réanimer
+Feat/&ProfHealerMedicineDescription Gagnez la maîtrise en médecine, ou l'expertise si vous êtes déjà compétent.
+Feat/&ProfHealerMedicineTitle Connaissance de la médecine
+Feat/&ProfChefTreatActionDescription Mangez une friandise comme action bonus et gagnez 5 points de vie temporaires.
+Feat/&ProfChefTreatActionTitle Mangez la friandise du Chef
+Feat/&ProfChefTreatDescription Mangez pour une action bonus et gagnez 5 points de vie temporaires.
+Feat/&ProfChefTreatTitle Friandise du Chef
+Feat/&ProfChefTreatCookDescription Passez une heure à cuisiner des friandises qui, lorsqu'elles sont mangées, fournissent 5 points de vie temporaires.
+Feat/&ProfChefTreatCookTitle Cuisiner la friandise du Chef
+Feat/&ChefShortRestFeastDescription Passez 1 heure à préparer un repas qui vous aide à vous soigner, vous et vos compagnons, 1d8.
+Feat/&ChefShortRestFeastTitle Repas de repos court
+Feat/&FeatChefConIncrementDescription +1 Constitution
+Feat/&FeatChefConIncrementTitle Augmentation de caractéristique
+Feat/&FeatChefWisIncrementDescription +1 Sagesse
+Feat/&FeatChefWisIncrementTitle Augmentation de caractéristique
+Feat/&ChefConDescription Vous gagnez +1 à la Constitution. Dépensez 1 heure pour cuisiner un repas qui vous soigne, vous et vos compagnons, 1d8. Une fois par jour, vous pouvez dépenser une heure pour cuisiner des friandises qui fournissent des HP temporaires lorsqu'elles sont mangées.
+Feat/&ChefConTitle Chef (Constitution)
+Feat/&ChefWisDescription Vous gagnez +1 à la Sagesse. Dépensez 1 heure pour cuisiner un repas pour vous soigner et soigner vos compagnons. Une fois par jour, vous pouvez dépenser une heure pour cuisiner des friandises qui fournissent des HP temporaires lorsqu'elles sont mangées.
+Feat/&ChefWisTitle Chef (Sagesse)
+FlexibleBackgrounds/&BackgroundSkillSelect3Description Choisissez 3 points de Maîtrise
+FlexibleBackgrounds/&BackgroundSkillSelect3Title Compétences
+FlexibleBackgrounds/&BackgroundSkillSelect2Description Choisissez 2 Maîtrises
+FlexibleBackgrounds/&BackgroundSkillSelect2Title Compétences
+FlexibleBackgrounds/&BackgroundToolSelectDescription Choisissez une maîtrise d'outils
+FlexibleBackgrounds/&BackgroundToolSelectTitle Outils
+FlexibleRaces/&PointPoolAbilityScore3Description Utilisez trois augmentations des scores de capacité dans n'importe quelle combinaison de votre choix.
+FlexibleRaces/&PointPoolAbilityScore3Title Augmentation du score d'aptitude
+FlexibleRaces/&PointPoolAbilityScore4Description Utilisez quatre augmentations des scores de capacité dans n'importe quelle combinaison de votre choix.
+FlexibleRaces/&PointPoolAbilityScore4Title Augmentation du score d'aptitude
+Subclass/&FighterSpellShieldDescription Les Spell Shields sont des combattants spécialisés dans la défense et la protection. Ils utilisent la magie pour renforcer leurs capacités naturelles.
+Subclass/&FighterSpellShieldTitle Spell Shield
+Subclass/&FighterSpellShieldSpellcastingDescription Lancer des sorts de sorcier et des cantrips des écoles d'Abjuration, d'Illusion, de Transmutation et de Nécromancie.
+Subclass/&FighterSpellShieldSpellcastingTitle Lancer des sorts
+Subclass/&FighterSpellShieldSpellResistanceDescription Votre expérience des sorts et de la magie d'abjuration en particulier vous a rendu résistant aux sorts lancés contre vous.
+Subclass/&FighterSpellShieldSpellResistanceTitle Résistance aux sorts
+Subclass/&MagicAffinityFighterSpellShieldDescription Avantage sur les tests de concentration ainsi que la capacité d'exécuter les composantes somatiques des sorts tout en tenant les objets.
+Subclass/&MagicAffinityFighterSpellShieldTitle Incantation de combat
+Subclass/&SpellShieldAdditionalActionDescription Vous pouvez lancer un sort après avoir vaincu un ennemi avec vos attaques d'armes.
+Subclass/&SpellShieldAdditionalActionTitle Lutte contre les sorts
+Subclass/&ConditionSpellShieldArcaneDeflectionDescription Vous pouvez utiliser vos pouvoirs arcaniques pour vous protéger en réaction. Cela vous donne +3 à votre CA jusqu'à votre prochain tour.
+Subclass/&ConditionSpellShieldArcaneDeflectionTitle Déviation arcanique
+Subclass/&PowerSpellShieldArcaneDeflectionDescription Vous pouvez utiliser vos pouvoirs arcaniques pour vous protéger en réaction. Cela vous donne +3 à votre CA jusqu'à votre prochain tour.
+Subclass/&PowerSpellShieldArcaneDeflectionTitle Déviation Arcanique
+Subclass/&PowerSpellShieldRangedDeflectionDescription Lorsqu'un attaquant que vous pouvez voir vous touche avec une attaque à distance ou un sort, vous pouvez utiliser votre réaction pour réduire de moitié les dégâts de l'attaque contre vous.
+Subclass/&PowerSpellShieldRangedDeflectionTitle Déviation à distance
+Subclass/&RoguishConArtistSpellcastingDescription Lancer des sorts de sorcier et des cantrips des écoles Conjuration, Enchantement, Illusion et Transmutation. Le Con Artist utilise le Charisme pour lancer ses sorts.
+Subclass/&RoguishConArtistSpellcastingTitle Lancer des sorts
+Subclass/&AbilityAffinityRogueConArtistDescription Avantage sur les tests de capacité utilisant la Persuasion, la Tromperie, la Performance et Passe-passe.
+Subclass/&AbilityAffinityRogueConArtistTitle Manipulateur
+Subclass/&RoguishConArtistDescription Les escrocs sont des voleurs spécialisés dans la tromperie et le mensonge. Ils utilisent la magie pour aider leurs capacités naturelles de manipulation.
+Subclass/&RoguishConArtistTitle Escroc
+Subclass/&RoguishConArtistFeintDescription Gagnez la capacité de feinter en combat comme une action bonus. Si la cible rate son jet de sauvegarde, cela lui confère un avantage lors de la prochaine attaque contre elle.
+Subclass/&RoguishConArtistFeintTitle Feinte
+Subclass/&MagicAffinityRoguishConArtistDCTitle Manipulation avancée
+Subclass/&RoguishConArtistMentalSavingThrowsDescription Vous gagnez la maîtrise des jets de sauvegarde de Sagesse et de Charisme.
+Subclass/&RoguishConArtistMentalSavingThrowsTitle Force mentale
+Subclass/&RoguishConArtistFeintConditionDescription Le fait d'être trompé confère un avantage sur l'attaque suivante.
+Subclass/&RoguishConArtistFeintConditionTitle Trompé
+Subclass/&MagicAffinityRoguishConArtistDC0Description Votre sauvegarde contre les sorts augmente de 0.
+Subclass/&MagicAffinityRoguishConArtistDC1Description Votre sauvegarde contre les sorts augmente de 1.
+Subclass/&MagicAffinityRoguishConArtistDC2Description Votre sauvegarde contre les sorts augmente de 2.
+Subclass/&MagicAffinityRoguishConArtistDC3Description Votre sauvegarde contre les sorts augmente de 3.
+Subclass/&MagicAffinityRoguishConArtistDC4Description Votre sauvegarde contre les sorts augmente de 4.
+Subclass/&MagicAffinityRoguishConArtistDC5Description Votre sauvegarde contre les sorts augmente de 5.
