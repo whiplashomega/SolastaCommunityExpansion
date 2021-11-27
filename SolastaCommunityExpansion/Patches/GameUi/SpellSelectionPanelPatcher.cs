@@ -82,7 +82,7 @@ namespace SolastaCommunityExpansion.Patches
                         indexOfLine++;
                     }
                 }
-                LayoutRebuilder.ForceRebuildLayoutImmediate(curTable);
+                LayoutRebuilder.ForceRebuildLayoutImmediate(spellRepertoireLinesTable);
                 __instance.RectTransform.SetSizeWithCurrentAnchors(RectTransform.Axis.Horizontal, curTable.rect.width);
             }
 
@@ -95,9 +95,6 @@ namespace SolastaCommunityExpansion.Patches
                 if (needNewLine)
                 {
                     RectTransform previousTable = spellRepertoireLinesTable;
-                    LayoutRebuilder.ForceRebuildLayoutImmediate(previousTable);
-                    __instance.RectTransform.SetSizeWithCurrentAnchors(RectTransform.Axis.Horizontal, previousTable.rect.width);
-
                     if (lineIndex > 0)
                     {
                         // instantiate new table
