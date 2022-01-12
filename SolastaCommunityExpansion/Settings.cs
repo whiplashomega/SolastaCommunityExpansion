@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Xml.Serialization;
+using SolastaCommunityExpansion.Documentation;
 using UnityModManagerNet;
 
 namespace SolastaCommunityExpansion
@@ -67,7 +68,16 @@ namespace SolastaCommunityExpansion
         public bool EnableSortingFutureFeatures { get; set; } = true;
         public bool EnableSortingRaces { get; set; } = true;
         public bool EnableSortingSubclasses { get; set; } = true;
+
+        [Documentation(Author.ThyWoof, Category.UIImprovement, 
+            "Keep characters panel open after leveling up.",
+            ExternalDescription = "Keep characters panel open and hero selected after leveling up.",
+            IsHiddenInModUI = true)]
         public bool KeepCharactersPanelOpenAndHeroSelectedOnLevelUp { get; set; } = true;
+
+        [Documentation(Author.ChrisJohn, Category.UIImprovement,
+            "Keep spell panel open when switching weapon sets.",
+            IsHiddenInModUI = true)]
         public bool KeepSpellsOpenSwitchingEquipment { get; set; } = true;
         public bool ShowAllAutoPreparedSpells { get; set; } = true;
 
