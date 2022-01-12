@@ -48,7 +48,6 @@
 			<HintPath>$([System.IO.Path]::Combine($(SolastaInstallDir), 'Solasta_Data\Managed\Assembly-CSharp.dll'))</HintPath>
 			<Private>false</Private>
 		</Reference>
-		<Reference Include="System.ComponentModel.DataAnnotations" />
 		<Reference Include="Unity.Addressables">
 			<HintPath>$([System.IO.Path]::Combine($(SolastaInstallDir), 'Solasta_Data\Managed\Unity.Addressables.dll'))</HintPath>
 			<Private>false</Private>
