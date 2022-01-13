@@ -141,4 +141,55 @@ namespace SolastaCommunityExpansion.Documentation
             }
         }
     }
+
+
+/*    private static void AddSettingsDocumentationToLogButton()
+    {
+        UI.ActionButton("Dump settings documentation to Logs", AddSettingsDocumentationToLogButtonImpl);
+        UI.AutoWidth();
+
+        void AddSettingsDocumentationToLogButtonImpl()
+        {
+            Main.Log("AddSettingsDocumentationToLog-pressed");
+
+            // We could put SettingDocumentationAttribute in other places if sensible
+            var documentationAttributes = typeof(Settings)
+                .GetMembers()
+                .SelectMany(x => x.GetCustomAttributes())
+                .OfType<SettingDocumentationAttribute>()
+                .ToList();
+
+            // TODO: use StringBuilder
+
+            foreach (var attributesByCategory in documentationAttributes
+                .GroupBy(a => a.Category)
+                .Select(g => new { Category = g.Key, Attributes = g }))
+            {
+                Main.Log(attributesByCategory.Category.ToString());
+                Main.Log("-----");
+
+                foreach (var attribute in attributesByCategory.Attributes
+                    .Where(a => !string.IsNullOrWhiteSpace(a.Description))
+                    .OrderBy(a => a.Description))
+                {
+                    Main.Log(attribute.Description);
+                }
+            }
+
+            Main.Log("Credits");
+            Main.Log("-----");
+
+            foreach (var attributesByAuthor in documentationAttributes.GroupBy(a => a.Author)
+                .Select(g => new { Author = g.Key, Attributes = g }))
+            {
+                var credits = attributesByAuthor.Attributes
+                    .Select(a => a.CreditTitle)
+                    .Where(a => !string.IsNullOrWhiteSpace(a))
+                    .OrderBy(t => t);
+
+                Main.Log($"{attributesByAuthor.Author}: {string.Join(", ", credits)}");
+            }
+        }
+    }
+*/
 }
